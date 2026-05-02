@@ -14,15 +14,15 @@ This project analyzes Amazon product reviews and Reddit discussions to monitor s
 
 | File | Description |
 |------|-------------|
-| `Reddit_data get.py` | **Data Scraper**: Fetches relevant discussion data from Reddit |
-| `Reddit-data cleaning.py` | **Data Cleaning**: Processes and cleans raw Reddit data |
-| `Amazon data cleaning code.py` | **Data Cleaning**: Cleans and standardizes Amazon review data |
-| `Amazon-analysis.py` | **Core Analysis**: Performs sentiment analysis on Amazon data |
-| `Amazon-analysis2.py` | **Advanced Analysis**: Additional analysis or visualization |
-| `Alarm system demo.py` | **Alarm Demo**: (Latest) Demonstrates risk alert functionality |
+| `Reddit_data get.py` | Data Scraper: Fetches relevant discussion data from Reddit |
+| `Reddit-data cleaning.py` | Data Cleaning: Processes and cleans raw Reddit data |
+| `Amazon data cleaning code.py` | Data Cleaning: Get Amazon dataset, Cleans and standardizes Amazon review data |
+| `Amazon-analysis.py` | Core Analysis: Performs sentiment analysis on Amazon data |
+| `Amazon-analysis2.py` | Advanced Analysis: Additional analysis or visualization |
+| `Alarm system demo.py` | Alarm Demo: (Latest) Demonstrates risk alert functionality |
 
 ##  Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.13
 - Required libraries (pandas, numpy, requests, etc.)
