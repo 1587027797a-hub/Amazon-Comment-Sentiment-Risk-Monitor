@@ -26,3 +26,4 @@ This project analyzes Amazon product reviews and Reddit discussions to monitor s
 ### Prerequisites
 - Python 3.13
 - Required libraries (pandas, numpy, requests, etc.)
+- Download the Amazon Review Dataset from https://amazon-reviews-2023.github.io/
